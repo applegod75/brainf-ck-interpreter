@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Chris Buitendijk 2G1\\source\\repos\\BrainfuckInterpreter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E24D0428-2221-43F3-8F37-F12AA5B81078}|BrainfuckInterpreter\\BrainfuckInterpreter.vcxproj|C:\\Users\\Chris Buitendijk 2G1\\source\\repos\\BrainfuckInterpreter\\BrainfuckInterpreter\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E24D0428-2221-43F3-8F37-F12AA5B81078}|BrainfuckInterpreter\\BrainfuckInterpreter.vcxproj|solutionrelative:BrainfuckInterpreter\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E24D0428-2221-43F3-8F37-F12AA5B81078}|BrainfuckInterpreter\\BrainfuckInterpreter.vcxproj|C:\\Users\\Chris Buitendijk 2G1\\source\\repos\\BrainfuckInterpreter\\BrainfuckInterpreter\\UserInput.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E24D0428-2221-43F3-8F37-F12AA5B81078}|BrainfuckInterpreter\\BrainfuckInterpreter.vcxproj|solutionrelative:BrainfuckInterpreter\\UserInput.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E24D0428-2221-43F3-8F37-F12AA5B81078}|BrainfuckInterpreter\\BrainfuckInterpreter.vcxproj|C:\\Users\\Chris Buitendijk 2G1\\source\\repos\\BrainfuckInterpreter\\BrainfuckInterpreter\\test.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E24D0428-2221-43F3-8F37-F12AA5B81078}|BrainfuckInterpreter\\BrainfuckInterpreter.vcxproj|solutionrelative:BrainfuckInterpreter\\test.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E24D0428-2221-43F3-8F37-F12AA5B81078}|BrainfuckInterpreter\\BrainfuckInterpreter.vcxproj|C:\\Users\\Chris Buitendijk 2G1\\source\\repos\\BrainfuckInterpreter\\BrainfuckInterpreter\\FileRead.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E24D0428-2221-43F3-8F37-F12AA5B81078}|BrainfuckInterpreter\\BrainfuckInterpreter.vcxproj|solutionrelative:BrainfuckInterpreter\\FileRead.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserInput.cpp",
+              "DocumentMoniker": "C:\\Users\\Chris Buitendijk 2G1\\source\\repos\\BrainfuckInterpreter\\BrainfuckInterpreter\\UserInput.cpp",
+              "RelativeDocumentMoniker": "BrainfuckInterpreter\\UserInput.cpp",
+              "ToolTip": "C:\\Users\\Chris Buitendijk 2G1\\source\\repos\\BrainfuckInterpreter\\BrainfuckInterpreter\\UserInput.cpp",
+              "RelativeToolTip": "BrainfuckInterpreter\\UserInput.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-11T05:27:26.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "test.txt",
+              "DocumentMoniker": "C:\\Users\\Chris Buitendijk 2G1\\source\\repos\\BrainfuckInterpreter\\BrainfuckInterpreter\\test.txt",
+              "RelativeDocumentMoniker": "BrainfuckInterpreter\\test.txt",
+              "ToolTip": "C:\\Users\\Chris Buitendijk 2G1\\source\\repos\\BrainfuckInterpreter\\BrainfuckInterpreter\\test.txt",
+              "RelativeToolTip": "BrainfuckInterpreter\\test.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-07-10T14:45:56.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileRead.cpp",
+              "DocumentMoniker": "C:\\Users\\Chris Buitendijk 2G1\\source\\repos\\BrainfuckInterpreter\\BrainfuckInterpreter\\FileRead.cpp",
+              "RelativeDocumentMoniker": "BrainfuckInterpreter\\FileRead.cpp",
+              "ToolTip": "C:\\Users\\Chris Buitendijk 2G1\\source\\repos\\BrainfuckInterpreter\\BrainfuckInterpreter\\FileRead.cpp",
+              "RelativeToolTip": "BrainfuckInterpreter\\FileRead.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-10T10:05:49.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Chris Buitendijk 2G1\\source\\repos\\BrainfuckInterpreter\\BrainfuckInterpreter\\main.cpp",
+              "RelativeDocumentMoniker": "BrainfuckInterpreter\\main.cpp",
+              "ToolTip": "C:\\Users\\Chris Buitendijk 2G1\\source\\repos\\BrainfuckInterpreter\\BrainfuckInterpreter\\main.cpp",
+              "RelativeToolTip": "BrainfuckInterpreter\\main.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAD4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-10T08:53:20.058Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
